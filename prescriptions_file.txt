@@ -1,0 +1,14 @@
+=======================================================================================================
+                                     PRESCRIPTIONS FILE                                      
+=======================================================================================================
+PatientID   	DoctorID   	Diagnosis      	Medicine        Dosage        	Advice
+-----------------------------------------------------------------------------------------------
+001 		201 		Fever 		Paracetamol 	TwiceDaily 	Rest_And_Drink_Water
+002 		202 		Cold_Cough 	Cough_Syrup 	TwiceDaily 	Warm_Water
+003 		203 		Heart_Murmur 	Atenolol 	OnceDaily 	Cardiology_Followup
+005 		204 		Migraine 	Ibuprofen 	When_Needed 	Avoid_Bright_Light
+007 		204 		Seizures 	Levetiracetam 	TwiceDaily 	Neurology_Followup
+008 		203 		Chest_Pain 	Aspirin 	OnceDaily 	ECG_Recommended
+011 		204 		Head_Injury 	Painkiller 	TwiceDaily 	CT_Scan_Recommended
+014 		202 		Pneumonia 	Antibiotic 	TwiceDaily 	Chest_Xray_Followup
+======================================================================================================

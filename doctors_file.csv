@@ -1,0 +1,5 @@
+DoctorID,Name,Specialization,Phone,AvailableTime,Status
+201,Dr. Sarah Rahman,Pediatrics,01711111111,10AM-2PM,Available
+202,Dr. Ayan Khan,General Medicine,01822222222,2PM-6PM,Available
+203,Dr. Priya Das,Cardiology,01933333333,9AM-1PM,Available
+204,Dr. David Kim,Neurology,01644444444,6PM-9PM,Unavailable

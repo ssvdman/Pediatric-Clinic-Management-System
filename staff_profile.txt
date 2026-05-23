@@ -1,0 +1,29 @@
+001,Dr. Sarah Rahman,Pediatrician,+8801711000001,sarah.rahman@clinic.com
+
+002,Dr. Ayan Khan,Pediatrician,+8801711000002,ayan.khan@clinic.com
+
+003,Dr. Priya Das,Cardiology Specialist,+8801711000003,priya.das@clinic.com
+
+004,Nurse Anika Islam,Nurse,+8801711000004,anika.islam@clinic.com
+
+005,Nurse Rafi Ahmed,Nurse,+8801711000005,rafi.ahmed@clinic.com
+
+006,Nurse Tania Roy,Nurse,+8801711000006,tania.roy@clinic.com
+
+007,Dr. David Kim,Neurology Specialist,+8801711000007,david.kim@clinic.com
+
+008,Rachel Green,Physiotherapist,+8801711000008,rachel.green@clinic.com
+
+009,Laura Bennett,Psychologist,+8801711000009,laura.bennett@clinic.com
+
+010,Kevin Thomas,Medical Assistant,+8801711000010,kevin.thomas@clinic.com
+
+011,Linda Carter,Receptionist,+8801711000011,linda.carter@clinic.com
+
+012,Arjun Mehta,Lab Technician,+8801711000012,arjun.mehta@clinic.com
+
+013,Sophia Martinez,Dietitian,+8801711000013,sophia.martinez@clinic.com
+
+014,Adam Brooks,Radiology Technician,+8801711000014,adam.brooks@clinic.com
+
+015,Olivia White,Cleaning Staff,+8801711000015,olivia.white@clinic.com

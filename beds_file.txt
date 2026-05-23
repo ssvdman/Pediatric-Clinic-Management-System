@@ -1,0 +1,11 @@
+===============================================================================================
+                                    BED INFORMATION FILE                                     
+===============================================================================================
+PatientID   BedNo   Ward         RoomNo   AdmissionDate   DischargeDate     BedCharge   Status
+-----------------------------------------------------------------------------------------------
+003 B201 Cardiology 21 25-04-2026 NotDischarged 1800 Admitted
+007 B301 Neurology 31 25-04-2026 NotDischarged 2000 Admitted
+008 B202 Cardiology 22 25-04-2026 NotDischarged 1800 Admitted
+011 B302 Emergency 32 25-04-2026 NotDischarged 2200 Admitted
+014 B104 General 14 25-04-2026 NotDischarged 1500 Admitted
+===============================================================================================
