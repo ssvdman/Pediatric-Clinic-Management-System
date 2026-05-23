@@ -88,15 +88,15 @@ Future Improvements
 - Improved error handling and security
 
 Team Members
-| Name | Contribution |
-| Sadman Sakib | Staff Management Portal, CSV handling, report preparation |
-| Mahir Daiyan Hisham | Staff Portal |
-| Shormila Sawom | Patient Portal |
-| Zahra Mahbuba Rahman | Billing & Payment Portal |
+| Team Member | Contribution |
+| :--- | :--- |
+| **Sadman Sakib** | Developed the Staff Management Portal including view, add, search, edit, and delete staff features using CSV/TXT file handling. Implemented helper functions for reading CSV data into arrays and automatic ID generation. Also contributed heavily to preparing and structuring the project report. |
+| **Mahir Daiyan Hisham** | Developed the Staff Portal including staff login authentication and profile viewing functionality using file handling. |
+| **Shormila Sawom** | Developed the complete Patient Portal including registration, login, appointment booking, searching, rescheduling, cancellation, prescription viewing, bed information, and billing details. Implemented doctor availability checking and appointment management systems. |
+| **Zahra Mahbuba Rahman** | Developed the Billing and Payment Portal including bill generation, payment processing, payment history tracking, and billing record management. Also contributed to project planning and report writing. |
 
 Project Information
 Developed as a final project for:
-
 Programming Language I Lab (CSE115.8)
 Department of Electrical and Computer Engineering  
 North South University
